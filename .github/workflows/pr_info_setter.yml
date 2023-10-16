@@ -1,4 +1,5 @@
 name: PRInfoSetter
+run-name: Set Pull Request Infomations🤖
 on:
  pull_request:
    types: 
